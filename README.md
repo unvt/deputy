@@ -15,4 +15,6 @@ node index.js
 ```
 
 # test
-http://localhost:8888/?https://cyberjapandata.gsi.go.jp/xyz/experimental_bvmap/15/28207/13225.pbf
+http://localhost:8888/15/28207/13225
+
+- image format is always PNG.
